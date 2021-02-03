@@ -7,12 +7,12 @@ Widget MyAppBar(){
       mainAxisAlignment: MainAxisAlignment.center,
       children: <Widget>[
         Text(
-          "Flutter",
+          "News",
           style:
           TextStyle(color: Colors.black87, fontWeight: FontWeight.w600),
         ),
         Text(
-          "News",
+          "ify",
           style: TextStyle(color: Colors.blue, fontWeight: FontWeight.w600),
         )
       ],
